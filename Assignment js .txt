@@ -1,0 +1,35 @@
+Question 1:here are 20 programming languages:
+
+1. Python
+2. Java
+3. JavaScript
+4. C++
+5. C#
+6. Ruby
+7. PHP
+8. Swift
+9. Go
+10. TypeScript
+11. Kotlin
+12. Rust
+13. Scala
+14. Perl
+15. R
+16. MATLAB
+17. HTML/CSS (technically not programming languages, but essential for web development)
+18. SQL
+19. Shell scripting languages (e.g., Bash)
+20. Lua
+
+Question 2 :Sure, here are five examples of dynamic websites and two static ones:
+
+Dynamic Websites:
+1. Facebook
+2. Twitter
+3. YouTube
+4. Amazon
+5. Reddit
+
+Static Websites:
+1. Documentation websites like MDN Web Docs
+2. Personal blogs or portfolios hosted on platforms like GitHub Pages
